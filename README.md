@@ -1,4 +1,4 @@
-# Discord Invite Manager & Giveaway Bot 🤖
+# Discord Invite Manager
 
 A complete and modular Discord bot focused on Invite Tracking and Giveaways, built with **Discord.js v14** and **Quick.db**.
 
