@@ -1,0 +1,25 @@
+{
+  "name": "invite-manager-bot",
+  "version": "1.0.0",
+  "description": "Discord.js Invite Manager and Giveaway Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "invite",
+    "manager",
+    "giveaway"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^9.0.0",
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "quick.db": "^9.1.7"
+  }
+}
